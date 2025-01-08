@@ -155,3 +155,42 @@ margin-right: 5px;
     margin-left: 40px;
     border-bottom: 4px solid red;
 }
+
+.footer-content{
+    font-family: 'Courier New', Courier, monospace;
+   
+
+}
+
+.footer{
+    border: 2px solid rgb(231, 220, 220);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    margin: 30px;
+}
+
+.footer-card{
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.footer-card input[type=text],[type=email]{
+    padding: 10px;
+    width: 330px;
+    margin-bottom: 5px;
+}
+
+.footer-card button{
+    margin-top: 10px;
+    margin-left: 125px;
+}
+
+.image-icon{
+  
+  margin-left: 5px;
+  margin-top: 10px;
+} 
