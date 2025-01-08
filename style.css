@@ -124,3 +124,34 @@ main{
     justify-content: space-around;
     margin-top: 20px;
 }
+
+.heading-2{
+    margin-top: 60px;
+}
+.card{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.card-1{
+/* background: #d04e4e; */
+border: 2px solid rgb(245, 242, 242);
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+box-shadow: 0px 6px 50px 0px rgb(237, 232, 232) ; 
+margin-top: 20px;
+margin-bottom: 20px;
+/* width: 300px; */
+margin-right: 5px;
+
+}
+.icons{
+    width: 200px;
+    height: 200px;
+}
+
+.graphics-heading{
+    /* font-weight: 500; */
+    margin-left: 40px;
+    border-bottom: 4px solid red;
+}
